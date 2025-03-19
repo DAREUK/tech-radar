@@ -2,15 +2,15 @@
 name: Technology Watch template
 about: Short template for the Technology Watch board
 title: ''
-labels: "..., data formats, data mgt, dataspaces, fed-a, metadata, vocabularies"
+labels: "..."
 assignees: ''
 
 ---
 
 **Overview**: a short paragraph.
-**Links**: 
- - url 1
- - url 2
+
+ - useful url 1 (eg, docs)
+ - useful url 2 (eg, repo)
 
 If adding as an issue from the tech-radar repo, please add it to the Technology Watch project from the "Project" setting in the RH sidebar.
 
